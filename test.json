@@ -1,0 +1,12 @@
+{
+    "name": "test",
+    "mill": "/json",
+    "json_schema": {
+        "$id": "3ds",
+        "$schema": "schemaschema",
+        "title": "this is a title",
+        "description": "A thing we are describing",
+        "array": [ "stuff", "things" ],
+        "type": "stuff"
+    }
+}
